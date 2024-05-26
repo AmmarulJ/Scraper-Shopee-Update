@@ -6,7 +6,7 @@ A python script to fetch shopee comments on a product using the shopee link of t
 3. Choose Network tab then reload the page.
 4. On right side in the select Request Headers select raw then copy all.
 5. Convert the copied content into this format:
-   '''
+   ```
    {"headers": {
         "User-Agent": "...",
         "Accept": "...",
@@ -19,8 +19,6 @@ A python script to fetch shopee comments on a product using the shopee link of t
         "Sec-Fetch-User": "...",
         "cookies": "...",
         "Connection": "..."
-  }
-}
-
-'''
+     }
+   }
 6. Create config.json file and paste that.
