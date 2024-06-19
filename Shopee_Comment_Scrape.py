@@ -4,7 +4,7 @@ import json
 
 with open('config.json', 'r') as f:
     config = json.load(f)
-    headers = config['headers']
+    headers = config['Shopee_headers']
 
 raw_url = input('Enter the url to scrape: ')
 num_of_comments = int(input('Enter the number of comments: '))
