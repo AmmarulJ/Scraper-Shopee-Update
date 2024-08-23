@@ -1,0 +1,18 @@
+{
+  "Shopee_headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    "cache-control": "max-age=0",
+    "cookie": "REC_T_ID=da095266-6139-11ef-9029-e67a74f3073e; SPC_R_T_ID=agOQV3yrAJUdFrKb7iGfxrXzOGc/j9zW6QG7rgkfSz/T6TqDtEkbeNFIRSgV9Z0uc8CKPqFrytIa4A5pU/ukEVLAxOv3xymqfn6muBTztQ3iDWJTFrrgvhqBO9zc/YidsD+mk31wW/t2con6T1uMCRmijIxBix26k5cyUtuSX88=; SPC_R_T_IV=RW1VUWJyWDFFS0NZQkJFRQ==; SPC_T_ID=agOQV3yrAJUdFrKb7iGfxrXzOGc/j9zW6QG7rgkfSz/T6TqDtEkbeNFIRSgV9Z0uc8CKPqFrytIa4A5pU/ukEVLAxOv3xymqfn6muBTztQ3iDWJTFrrgvhqBO9zc/YidsD+mk31wW/t2con6T1uMCRmijIxBix26k5cyUtuSX88=; SPC_T_IV=RW1VUWJyWDFFS0NZQkJFRQ==; SPC_SI=qmWfZgAAAABlNHBDUTRvVcg00gIAAAAAWmVNZFNwd1Q=; SPC_SEC_SI=v1-b0VFOHF1cDhwcXJTdlV3StHznQIaa/kdP734Kb2KUHfYAuvYKcydcVQeXGlp9/5buedEFubB0WRK/ClQS6rCJyPJv/G00IDM/xh3qMsVN8A=; SPC_F=Y8OJ7M26lwm0kCxKvgkY5XJ0vSUSFQ7X",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"99\", \"Google Chrome\";v=\"127\", \"Chromium\";v=\"127\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+  }
+}
